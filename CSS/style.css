@@ -1,0 +1,48 @@
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+    font-family: 'Merriweather', serif;
+    background-color: #E9D5DA; 
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+h3{
+   font-family: 'Merriweather', serif;
+   font-size: 25px; 
+   font-weight: 200;
+}
+.profile img{
+    height: 200px;
+    border-radius: 100%;
+}
+.skill img{
+    height: 200px;
+    border-radius: 10%;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600px;
+}
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: tomato;
+    border: 2px solid lightsalmon;
+    border-radius: 10px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 10%;
+}
